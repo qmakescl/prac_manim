@@ -3,3 +3,6 @@
 gemini.md
 media/
 export/
+__pycache__/
+*.pyc
+*.pyo

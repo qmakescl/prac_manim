@@ -6,4 +6,5 @@
 
 ## 수록 내용
 
+- tutorialcodes : Manim 의 [Tutorial 코드](https://docs.manim.community/en/stable/tutorials_guides.html) 따라하기
 - binomial_to_normal.py : 이항분포의 n 이 증가할떄 정규분포를 닮아가는 것 시각화
